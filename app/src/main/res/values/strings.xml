@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NearbyRestaurantsApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location_permission_denied">This app requires location permission to show your location on the map. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'NearbyRestaurantsApplication\'.</string>
+
+    <string name="ok">OK</string>
+</resources>
